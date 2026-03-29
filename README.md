@@ -1,12 +1,15 @@
- <h1 align="center" style="font-family: Helvetica, Arial, sans-serif; font-weight: bold;">
+<h1 align="center" style="font-family: Helvetica, Arial, sans-serif; font-weight: bold; font-size: 60px;">
   mattbbs.com
 </h1>
 
+<br>
+
 <p align="center">
-  <img src=![family-guy-death-pose-peter-falls-down-the-stairs-v0-cyknzos0ptoa1](https://github.com/user-attachments/assets/a3e80da5-3e00-459e-be8a-b299d3bc32dd)
-" alt="image" width="80%">
+  <img src="peter.png" alt="peter griffin fall" width="700">
 </p>
 
-<p align="center" style="font-size: 12px; color: gray;">
-  © 2026 mattbbs All rights reserved.
+<br><br>
 
+<p align="center" style="font-size: 12px; color: gray;">
+  © 2026 mattbbs. All rights reserved.
+</p>
